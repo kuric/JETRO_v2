@@ -1611,8 +1611,8 @@ pre code {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 10px;
-  padding-right: 10px;
+  /* /* padding-left: 10px; */ */
+  /* /* padding-right: 10px; */ */
 }
 .row {
   margin-left: -10px;
@@ -6405,9 +6405,9 @@ button.close {
 }
 .carousel-indicators li {
   /* margin-right: 25px; */
-  display: inline-block;
-  width: 140px;
-  height: 120px;
+  /* display: inline-block; */
+  /* width: 140px; */
+  /* height: 120px; */
   /* margin: 1px; */
   text-indent: -999px;
   /* border: 1px solid #ffffff; */
